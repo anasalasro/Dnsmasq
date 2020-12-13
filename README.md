@@ -9,5 +9,5 @@
 
 ## Referencias
 - [Observatorio tecnológico](http://recursostic.educacion.es/observatorio/web/gl/software/software-general/638-servidor-dns-sencillo-en-linux-con-dnsmasq)  
-- [2](https://www.portainer.io/installation/)
-- [3](https://www.youtube.com/watch?v=TSot5AnS-mk)  
+- [Victor Robles](https://www.youtube.com/watch?v=xjSFV1hP1Rk&ab_channel=VictorRoblesWEB)
+- [Videosinformatica](https://www.youtube.com/watch?v=JRhwabwiicw&ab_channel=videosdeinformatica)  
