@@ -1,6 +1,9 @@
-# Instalación de dnsmasq
-## Para la instalación usaremos este comando
+# Instalación de dnsmasq  
+
+## Para la instalación usaremos este comando  
+
 > apt install dnsmasq  
+![Instalación](https://github.com/anasalasro/Dnsmasq/blob/main/imagenes/instalacion.png) 
 
 ## Arranque y parada del servidor dnsmasq
 El servicio dnsmasq, al igual que todos los servicios en Linux, dispone de scripts de arranque y parada en la carpeta /etc/init.d. Debemos ejecutarlos desde una consola de root.
@@ -10,7 +13,10 @@ El servicio dnsmasq, al igual que todos los servicios en Linux, dispone de scrip
 >// Parar el servidor dnsmasq  
 > /etc/init.d/dnsmasq stop  
 
+![Arrancar/Parar](https://github.com/anasalasro/Dnsmasq/blob/main/imagenes/iniciar%2Cpararyreiniciar.png)  
+
 ## Configuración básica de dnsmasq  
+
 **Editamos el fichero /etc/hosts**  
 
 ![Hosts](https://github.com/anasalasro/Dnsmasq/blob/main/imagenes/editamos-etc-hosts.png) 
