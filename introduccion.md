@@ -1,4 +1,4 @@
-# ¿Ques es DNSMASQ? 
+# ¿Qué es DNSMASQ? 
 
 **Dnsmasq** nos permite poner en marcha un servidor DNS de una forma muy sencilla. 
 Simplemente instalando y arrancando el servicio dnsmasq, sin realizar ningún tipo de configuración adicional, 
